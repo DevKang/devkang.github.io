@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Design Thinking ToolKit - Contextual Inquiry
